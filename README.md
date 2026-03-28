@@ -26,3 +26,5 @@ Template de site institucional para escolas, desenvolvido com HTML5 e CSS3 puro.
 - **Flexbox** (menu e cards)
 - **Grid Layout** (layout principal)
 - **Media Queries** (responsividade)
+## ✨ Demonstração
+[https://gutoliveiraaguiar-collab.github.io/Template-Site-educacional/]
